@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: mateapp-container
-        image: your-image:latest
+        image: dimonalek/todoapp:3.0.0
         resources:
           requests:
             memory: "128Mi"
